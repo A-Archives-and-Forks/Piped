@@ -63,6 +63,9 @@ devDependencies:
   '@unocss/preset-web-fonts':
     specifier: 0.51.12
     version: 0.51.12
+  '@unocss/reset':
+    specifier: 0.51.12
+    version: 0.51.12
   '@unocss/transformer-directives':
     specifier: 0.51.12
     version: 0.51.12
@@ -105,6 +108,9 @@ devDependencies:
   vite-plugin-pwa:
     specifier: 0.14.7
     version: 0.14.7(vite@4.3.5)(workbox-build@6.5.4)(workbox-window@6.5.4)
+  workbox-window:
+    specifier: 6.5.4
+    version: 6.5.4
 
 packages:
 
